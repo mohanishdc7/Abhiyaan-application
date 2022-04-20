@@ -1,0 +1,8 @@
+prefix=/home/mohanish_dc7/catkin_ws/install
+
+Name: abhiyaan_task
+Description: Description of abhiyaan_task
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
